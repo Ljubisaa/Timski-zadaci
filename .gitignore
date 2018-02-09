@@ -2,3 +2,6 @@
 .project
 README.md
 bin
+.idea
+Timski-zadaci.iml
+out
